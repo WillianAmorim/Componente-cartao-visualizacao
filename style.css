@@ -128,4 +128,9 @@ section > p {
     width: 374px;
     text-align: left;
   }
+
+  .information-numbers {
+    flex-direction: row;
+    gap: 63px;
+  }
 }

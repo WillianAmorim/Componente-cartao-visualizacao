@@ -38,6 +38,7 @@ section > h1 {
 }
 
 section > p {
+  margin-top: 16px;
   font-weight: 400;
   font-size: 15px;
   line-height: 25px;

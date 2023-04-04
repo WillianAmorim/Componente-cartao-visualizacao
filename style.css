@@ -38,6 +38,7 @@ section {
 }
 
 section > h1 {
+  width: 264px;
   font-weight: 700;
   font-size: 28px;
   line-height: 32px;
@@ -50,6 +51,7 @@ span {
 }
 
 section > p {
+  width: 264px;
   margin-top: 16px;
   font-weight: 400;
   font-size: 15px;

@@ -35,3 +35,13 @@ section > h1 {
   text-align: center;
   color: #FFFFFF;
 }
+
+section > p {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  text-align: center;
+  color: #FFFFFF;
+  mix-blend-mode: normal;
+  opacity: 0.75;
+}

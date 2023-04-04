@@ -113,4 +113,11 @@ section > p {
     margin-top: 0;
     justify-content: center;
   }
+
+  section > h1 {
+    width: 403px;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+  }
 }

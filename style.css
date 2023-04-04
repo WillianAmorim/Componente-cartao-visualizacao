@@ -37,6 +37,10 @@ section > h1 {
   color: #FFFFFF;
 }
 
+span {
+  color: #AB5CDB;
+}
+
 section > p {
   margin-top: 16px;
   font-weight: 400;

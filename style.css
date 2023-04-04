@@ -20,3 +20,9 @@ main {
 img {
   height: 240px;
 }
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

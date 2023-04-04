@@ -20,8 +20,13 @@ main {
   border-radius: 8px;
 }
 
-img {
+.img-mobile {
   height: 240px;
+  background-image: url('./images/image-header-mobile.jpg');
+  background-color: #AB5CDB;
+  background-size: cover;
+  background-blend-mode: multiply;
+  opacity: 0.75;
 }
 
 section {

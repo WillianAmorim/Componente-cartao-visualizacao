@@ -48,6 +48,10 @@ section > p {
   opacity: 0.75;
 }
 
+.information-numbers {
+  margin-top: 40px;
+}
+
 .information-numbers h2{
   font-weight: 700;
   font-size: 24px;

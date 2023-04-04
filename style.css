@@ -125,6 +125,7 @@ section > p {
   }
 
   section > p {
+    width: 374px;
     text-align: left;
   }
 }

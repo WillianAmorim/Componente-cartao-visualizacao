@@ -113,6 +113,7 @@ section > p {
     margin-top: 0;
     justify-content: center;
     align-items: flex-start;
+    margin-left: 70px;
   }
 
   section > h1 {
@@ -120,5 +121,10 @@ section > p {
     font-size: 36px;
     line-height: 44px;
     color: #FFFFFF;
+    text-align: left;
+  }
+
+  section > p {
+    text-align: left;
   }
 }

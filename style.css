@@ -53,3 +53,15 @@ section > p {
   text-align: center;
   color: #FFFFFF;
 }
+
+.information-numbers p {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 25px;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+}

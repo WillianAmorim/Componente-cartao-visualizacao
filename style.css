@@ -113,7 +113,7 @@ section > p {
     margin-top: 0;
     justify-content: center;
     align-items: flex-start;
-    margin-left: 70px;
+    padding-left: 70px;
   }
 
   section > h1 {

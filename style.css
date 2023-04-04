@@ -105,6 +105,5 @@ section > p {
     width: 1110px;
     height: 446px;
     display: flex;
-    flex-direction: row-reverse;
   }
 }

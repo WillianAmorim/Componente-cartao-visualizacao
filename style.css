@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-style: normal;
 }
 
 body {
@@ -46,6 +47,8 @@ section {
 }
 
 section > h1 {
+  font-family: 'Inter';
+  font-weight: 700;
   width: 264px;
   font-weight: 700;
   font-size: 28px;

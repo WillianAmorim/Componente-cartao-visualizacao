@@ -119,5 +119,6 @@ section > p {
     font-size: 36px;
     line-height: 44px;
     color: #FFFFFF;
+    text-align: left;
   }
 }
